@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid black;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    background-image: url("images/image1.jpg");
+    /* line-height: 15px;
+    word-spacing: 20px;
+    letter-spacing: 10px; */
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+h2{
+    background-color: aqua;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+}
